@@ -1,4 +1,5 @@
 #summary 大家可以把需求列在这里.
+#labels Phase-Requirements
 
   * 把相关文档加到Gcode里来。
   * emule协议文档翻译成中文，使国内开发者更易上手。 
