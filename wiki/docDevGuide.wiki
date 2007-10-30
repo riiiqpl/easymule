@@ -3,18 +3,18 @@
 = 相关资源 =
 
 ==VeryCD-eMule源码下载==
-http://www.emule.org.cn/download/
-（C++源代码一栏）
+  * http://www.emule.org.cn/download/（C++源代 码一栏）
 
 ==eMule协议（英文）==
-http://nchc.dl.sourceforge.net/sourceforge...tocol_guide.pdf
-（可惜目前只有英文的）
+  * http://nchc.dl.sourceforge.net/sourceforge/emule/protocol_guide.pdf（可惜目前只有英文的）
+  * ed2k://|file|emule%20spec.pdf|2607050|60614B708402E1D747B47C2D8E70AA40|h=VKKKSA6WDAG3QVOAO6WPD5RFIMHQALB3|/
 
 ==kad协议（英文）==
-http://www.cs.rice.edu/Conferences/IPTPS02/109.pdf
+  * http://www.cs.rice.edu/Conferences/IPTPS02/109.pdf
+  * ed2k://|file|kad%20spec.pdf|81047|B96817E90CDD4CCC4CD56E5FDC3899E7|h=S7QYXSJYECHVQEJTSMQPVXBLDOSAGUPD|/
 
 ==Kad协议简介（中文）(推荐)==
-ed2k://|file|kademlia.协议简介.pdf|243990|d16876cd8bc766d7a426595ecd1d694f|h=NFY5KK3YYJMZ7566LJRMRGNUY25RZBE4|/
+  * ed2k://|file|kademlia%20%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B.pdf|243990|D16876CD8BC766D7A426595ECD1D694F|h=NFY5KK3YYJMZ7566LJRMRGNUY25RZBE4|/
 
 ==VeryCD版eMule Low2Low 实现==
-http://www.VeryCD.com/groups/eMuleDev/186617.topic
+  * http://www.VeryCD.com/groups/eMuleDev/186617.topic
