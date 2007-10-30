@@ -1,0 +1,20 @@
+#summary 新人指南.
+
+= 相关资源 =
+
+==VeryCD-eMule源码下载==
+http://www.emule.org.cn/download/
+（C++源代码一栏）
+
+==eMule协议（英文）==
+http://nchc.dl.sourceforge.net/sourceforge...tocol_guide.pdf
+（可惜目前只有英文的）
+
+==kad协议（英文）==
+http://www.cs.rice.edu/Conferences/IPTPS02/109.pdf
+
+==Kad协议简介（中文）(推荐)==
+ed2k://|file|kademlia.协议简介.pdf|243990|d16876cd8bc766d7a426595ecd1d694f|h=NFY5KK3YYJMZ7566LJRMRGNUY25RZBE4|/
+
+==VeryCD版eMule Low2Low 实现==
+http://www.VeryCD.com/groups/eMuleDev/186617.topic
