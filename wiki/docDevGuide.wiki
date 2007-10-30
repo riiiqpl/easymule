@@ -1,4 +1,4 @@
-#summary 新人指南.
+#summary [文档]eMule开发新人指南.
 
 = 相关资源 =
 
