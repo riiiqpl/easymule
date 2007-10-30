@@ -3,10 +3,12 @@
 = 相关资源 =
 
 ==VeryCD-eMule源码下载==
-  * http://www.emule.org.cn/download/（C++源代 码一栏）
+  * http://www.emule.org.cn/download/
+（C++源代码一栏）
 
 ==eMule协议（英文）==
-  * http://nchc.dl.sourceforge.net/sourceforge/emule/protocol_guide.pdf（可惜目前只有英文的）
+  * http://nchc.dl.sourceforge.net/sourceforge/emule/protocol_guide.pdf
+（可惜目前只有英文的）
   * ed2k://|file|emule%20spec.pdf|2607050|60614B708402E1D747B47C2D8E70AA40|h=VKKKSA6WDAG3QVOAO6WPD5RFIMHQALB3|/
 
 ==kad协议（英文）==
