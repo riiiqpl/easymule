@@ -9,6 +9,7 @@
   * 开发人员：Captain(C), Developer(D), Tester(T)
   * 
   * 需求变更：
+  * patch帖: [http://www.verycd.com/groups/Emuledev]
 
 === 开发组2 ===
   * 状态: (报名中，开发中，结束)
