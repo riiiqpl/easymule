@@ -1,1 +1,1 @@
-#summary 怎么开始参加到easyMule的开发中来，并从中受益.
+#summary 怎么参加到easyMule的开发中来，并从中受益.
