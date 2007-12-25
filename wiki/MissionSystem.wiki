@@ -1,6 +1,7 @@
 #summary 任务系统.
 
  * [http://code.google.com/p/easymule/wiki/MissionSystemHelp 任务系统的介绍]
+ * [http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]
 
 || *编号* || *需求标题* || *状态* ||
 || 0001 ||[ms0001 添加"复制ed2k链接到剪贴板"的菜单项(例子)] ||(组1：开发中)||
