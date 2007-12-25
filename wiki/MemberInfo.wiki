@@ -1,5 +1,7 @@
 #summary 成员信息.
 
+|| *帐号* || *昵称* || *特长* || *目前在研究easyMule的哪一部分* || *联系方式* ||
+|| LanceFong || Lance || UI，P2P || 路由器断网问题 || QQ:22809625 ||
 
-|| *名称* || *特长* || *目前在研究easyMule的哪一部分* || *帐号* || *联系方式* ||
-|| Lance || UI，P2P || 路由器断网问题 || {{{LanceFong@Gmail.com}}} || QQ:22809625 ||
+
+注：帐号默认为@Gmail.com，如果不是@Gmail.com的帐号，请写全。
