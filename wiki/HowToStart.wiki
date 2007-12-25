@@ -10,4 +10,4 @@
   # 当你成为成员之后，建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 这里]留下自己的一些信息，以便于开发者之间的交流。
   # 你可以通过[http://code.google.com/p/easymule/source google上的svn]提取最新的代码
   # 你可以研究代码并把自己的心得发到[http://www.verycd.com/groups/eMuleDev Verycd Groups]上来
-  # 也可以参与到开发中来，从实践中获得进步。你（即使是新手也）可以在与其他开发者共同开发的同时，在技术上和人际关系上得到收获。详情参见[任务系统介绍]
+  # 也可以参与到开发中来，从实践中获得进步。你（即使是新手也）可以在与其他开发者共同开发的同时，在技术上和人际关系上得到收获。详情参见[http://code.google.com/p/easymule/wiki/MissionSystemHelp 任务系统介绍] ( 推荐！！！)
