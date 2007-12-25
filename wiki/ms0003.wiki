@@ -1,11 +1,11 @@
 #summary easyMule有时导致路由器断线.
 
 === 需求 ===
- * (LanceFong:)easyMule有时导致路由器断线
+ * ({{{LanceFong}}}:)easyMule有时导致路由器断线
 
 === 资料共享 ===
- * (LanceFong:)
+ * ({{{LanceFong}}}:)
 
 === 开发组1 ===
  * 状态：开发中&招募中
- * 开发者：LanceFong
+ * 开发者：{{{LanceFong}}}
