@@ -15,7 +15,7 @@
   * patch帖: [http://www.verycd.com/groups/Emuledev]
 
 === 开发组2 ===
-  * 状态: 招募中&开发中
+  * 状态: 开发中&招募中
   * 开发人员：{{{Thilon}}}
   * 
   * 需求变更：在“下载中”应该也加上这一条。
