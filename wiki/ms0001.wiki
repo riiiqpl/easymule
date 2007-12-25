@@ -1,18 +1,18 @@
-#summary 实例.
+#summary 添加"复制ed2k链接到剪贴板"的菜单项(例子).
 
 === 需求 ===
-  * 需求：
-  * 需求提交者：
+  * 需求：在“下载中”和“共享”里的右键菜单里添加一项“复制ed2k链接到剪贴板”以便于复制ed2k链接的操作。
+  * 需求提交者：LanceFong
 
 === 开发组1 ===
-  * 状态: (报名中，开发中，结束)
-  * 开发人员：Captain(C), Developer(D), Tester(T)
+  * 状态: 开发中
+  * 开发人员：LanceFong
   * 
   * 需求变更：
   * 相关日志（文档）：
   * patch帖: [http://www.verycd.com/groups/Emuledev]
 
 === 开发组2 ===
-  * 状态: (报名中，开发中，结束)
-  * 开发人员：Captain(C), Developer(D), Tester(T)
+  * 状态: 
+  * 开发人员：
   * 
