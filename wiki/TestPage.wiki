@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
-#labels ms-new
+#labels Phase-msNew
 
 = Introduction =
 
