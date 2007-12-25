@@ -1,1 +1,17 @@
 #summary 怎么参加到easyMule的开发中来，并从中受益.
+
+  * 由于Google code的一些规则，大部分操作需要加为成员。所以你可以在xx留下你的google帐号，我们的管理员会把你加成成员。
+  * 当你成为成员之后，建议你在xx留自己的一些信息，以便于开发者之间的交流。
+  * 
+
+  * 首先在[http://code.google.com/p/easymule/w/list wiki]和[http://www.verycd.com/groups/eMuleDev Verycd Groups]里会有些文档。
+xx
+  # 加入
+  # 信息
+  # 需求
+  # 文档
+  # 开发
+    * 代码
+    * 开发中受益
+
+  # 讨论
