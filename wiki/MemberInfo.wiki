@@ -2,4 +2,4 @@
 
 
 || *名称* || *特长* || *目前在研究easyMule的哪一部分* || *帐号* || *联系方式* ||
-|| Lance || UI，P2P || 路由器断网问题 || LanceFong@Gmail.com || QQ:22809625 ||
+|| Lance || UI，P2P || 路由器断网问题 || {{{LanceFong@Gmail.com}}} || QQ:22809625 ||
