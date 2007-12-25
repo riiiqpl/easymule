@@ -1,13 +1,12 @@
 #summary 任务系统介绍.
 
-= Introduction =
+为了帮助大家更好的了解easyMule，以及从中能有所得，我们提供任务系统这样一个机制。
+希望对大家的技术能力，人际交往能力，以及领导力 的提高上有所帮助。
 
-Add your content here.
 
 
-= Details =
+[http://code.google.com/p/easymule/wiki/MissionSystem 这里]是任务系统的主页，
+上面列有一些任务和它们的状态。
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+
+你也可以把你的需求提在这里作为一个任务，如果其他开发者对此有兴趣就会开始开发你提出的需求。
