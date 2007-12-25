@@ -1,17 +1,13 @@
 #summary 怎么参加到easyMule的开发中来，并从中受益.
 
-  * 由于Google code的一些规则，大部分操作需要加为成员。所以你可以在xx留下你的google帐号，我们的管理员会把你加成成员。
-  * 当你成为成员之后，建议你在xx留自己的一些信息，以便于开发者之间的交流。
-  * 
+  首先：
+  # 在你对easyMule的研究中遇到任何问题都可以通过QQ群：104839 或是[http://www.verycd.com/groups/eMuleDev verycd groups]向其他开发者咨询和讨论。
+  # easyMule的相关文档一般会放在[http://code.google.com/p/easymule/w/list wiki]和[http://www.verycd.com/groups/eMuleDev Verycd Groups]里。可以通过它们对easyMule作进一步了解。
 
-  * 首先在[http://code.google.com/p/easymule/w/list wiki]和[http://www.verycd.com/groups/eMuleDev Verycd Groups]里会有些文档。
-xx
-  # 加入
-  # 信息
-  # 需求
-  # 文档
-  # 开发
-    * 代码
-    * 开发中受益
 
-  # 讨论
+  其次：
+  # 由于Google code的一些规则，以下的操作需要加为成员。所以你可以在xx留下你的google帐号，我们的管理员会把你加为成员。
+  # 当你成为成员之后，建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 这里]留下自己的一些信息，以便于开发者之间的交流。
+  # 你可以通过[http://code.google.com/p/easymule/source google上的svn]提取最新的代码
+  # 你可以研究代码并把自己的心得发到[http://www.verycd.com/groups/eMuleDev Verycd Groups]上来
+  # 也可以参与到开发中来，从实践中获得进步。你（即使是新手也）可以在与其他开发者共同开发的同时，在技术上和人际关系上得到收获。详情参见[任务系统介绍]
