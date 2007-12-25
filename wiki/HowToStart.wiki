@@ -1,4 +1,4 @@
-#summary 怎么参加到easyMule的开发中来，并从中受益.
+#summary 怎么参加到easyMule的开发中来.
 
   首先：
   # 在你对easyMule的研究中遇到任何问题都可以通过QQ群：104839 或是[http://www.verycd.com/groups/eMuleDev verycd groups]向其他开发者咨询和讨论。
