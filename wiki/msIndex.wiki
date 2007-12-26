@@ -6,3 +6,5 @@
  * [http://code.google.com/p/easymule/wiki/msRequirements 需求]
  * [http://code.google.com/p/easymule/wiki/msDeveloping 开发中]
  * [http://code.google.com/p/easymule/wiki/msPatched 开发完成]
+
+ * [http://code.google.com/p/easymule/wiki/msDocuments 文档完善]
