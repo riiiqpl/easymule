@@ -1,6 +1,6 @@
 #summary 任务系统.
 
- * [http://code.google.com/p/easymule/wiki/MissionSystemHelp 任务系统的介绍]
+ * [http://code.google.com/p/easymule/wiki/msHelp 任务系统的介绍]
  * [http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]
 
  * [http://code.google.com/p/easymule/wiki/msRequirements 需求]
