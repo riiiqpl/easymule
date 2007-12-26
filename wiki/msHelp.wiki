@@ -1,4 +1,4 @@
-#Summary [任务系统]帮助
+#summary [任务系统]帮助
 
  # 由于wiki的编辑需要加为成员，所以建议你在QQ群104839里留下你的Gmail帐号，管理员会把你加为成员。
  # 建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]中留下你的联系方式，以便大家可以找到你。
