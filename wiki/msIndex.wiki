@@ -1,4 +1,4 @@
-#summary 任务系统.
+#summary [任务系统]主页
 
  * [http://code.google.com/p/easymule/wiki/msHelp 任务系统的介绍]
  * [http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]
