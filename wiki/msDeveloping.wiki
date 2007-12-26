@@ -1,13 +1,9 @@
 #summary 开发中.
 
-= Introduction =
+= 0001 =
+ === 需求 ===
+  * Lance: easyMule有时导致路由器断线
+ === 开发者 ===
+  * Lance
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Next : 0002 =
