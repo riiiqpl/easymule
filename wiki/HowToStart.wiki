@@ -6,7 +6,7 @@
 
 
   其次：
-  # 由于Google code的一些规则，以下的操作需要加为成员。所以你可以在QQ群里留下你的google帐号，我们的管理员会把你加为成员。
+  # 由于Google code的一些规则，以下的操作需要加为成员。所以你可以在QQ群104839里或在[http://www.verycd.com/groups/eMuleDev/220323.topic 这里]留下你的google帐号，我们的管理员会把你加为成员。
   # 当你成为成员之后，建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]里留下自己的一些信息，以便于开发者之间的交流。
   # 你可以通过[http://code.google.com/p/easymule/source google上的svn]提取最新的代码
   # 你可以研究代码并把自己的心得发到[http://www.verycd.com/groups/eMuleDev Verycd Groups]上来
