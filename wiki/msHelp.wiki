@@ -1,0 +1,6 @@
+#Summary 任务系统(Mission System)帮助
+
+ # 建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]中留下你的联系方式，以便大家可以找到你。
+ # 在[http://code.google.com/p/easymule/wiki/msRequirements 需求]中你可以尽情的提出你的需求来，官方会把一些好的需求转到[http://code.google.com/p/easymule/wiki/msDeveloping 开发中]在这里等待大家来开发。
+ # 在[http://code.google.com/p/easymule/wiki/msDeveloping 开发中]你可以参加到任何一个开发任务中去，只要编辑它把你的名字回到里面，并联系同在开发的人。
+ # 开发完成的任务会以Patch的形式提交到Downloads里，官方会把改好的Patch，打到easyMule里在下一个版本中发布出来供大家使用。并把任务转到[http://code.google.com/p/easymule/wiki/msPatched 已完成]里
