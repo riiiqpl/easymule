@@ -1,4 +1,5 @@
 #summary 成员信息.
+#labels Featured
 
 || *帐号* || *昵称* || *特长* ||  *联系方式* || *目前在研究easyMule的哪一些部分* || *曾研究过哪一些部分* || 
 || {{{LanceFong}}} || Lance || UI，P2P || QQ:22809625 || 路由器断网问题 || eMule协议，Kad协议 ||
