@@ -2,7 +2,8 @@
 
  # 由于wiki的编辑需要加为成员，所以建议你在QQ群104839里留下你的google帐号，管理员会把你加为成员。
  # 建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]中留下你的联系方式，以便大家可以找到你。
- # 在[http://code.google.com/p/easymule/wiki/dsRequirements 需求]中你可以尽情的提出你的需求来，官方会把一些好的需求转到[http://code.google.com/p/easymule/wiki/dsDeveloping 开发中]在这里等待大家来开发。
- # 在[http://code.google.com/p/easymule/wiki/dsDeveloping 开发中]你可以参加到任何一个开发任务中去，只要编辑它把你的名字回到里面，并联系同在开发的人。
+ # 在[http://code.google.com/p/easymule/wiki/dsRequirements 需求]中你可以尽情的提出你的需求来，官方会把一些好的需求转到[http://code.google.com/p/easymule/wiki/dsPending 等待开发]，在这里等待大家来开发。
+ # 你可以到[http://code.google.com/p/easymule/wiki/dsPending 等待开发]里挑你喜欢的需求来开发，只要编辑这个页面，按模板把内容移到[http://code.google.com/p/easymule/wiki/dsDeveloping 开发中]即可。
+ # 也可以在[http://code.google.com/p/easymule/wiki/dsDeveloping 开发中]参加到任何一个开发任务中去，只要编辑它把你的名字回到里面，并联系同在开发的人。
  # 开发完成的任务会以Patch的形式提交到Downloads里，官方会把改好的Patch，打到easyMule里在下一个版本中发布出来供大家使用。并把任务转到[http://code.google.com/p/easymule/wiki/dsPatched 已完成]里
  # 鉴于新加入的开发者普遍反映文档不够，特列出[http://code.google.com/p/easymule/wiki/dsDocuments 文档完善]专栏。建议当你在研究代码的时候顺便完善一下相关的文档，以便后来人不再做重复的工作，更快的进入状态。
