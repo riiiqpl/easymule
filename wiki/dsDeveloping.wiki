@@ -12,5 +12,7 @@
      {{{::GetTickCount()-cur_src->getLastTriedToConnectTime() > 20*60*1000}}}
     如果是LowId to LowId，LastTriedToConnectTime没有被设置，导致如果对方如果不在线，则会一直去尝试连接，则会一直通过HighId或是服务器去打洞。造成HighId或服务器网络拥塞。
     
-
 = Next : 0002 =
+ === 需求 ===
+ === 开发者 ===
+ === 日志 ===
