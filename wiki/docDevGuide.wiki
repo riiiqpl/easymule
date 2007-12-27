@@ -1,5 +1,4 @@
 #summary [文档]eMule开发新人指南.
-#labels Featured
 
 = 相关资源 =
 
