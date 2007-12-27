@@ -5,6 +5,13 @@
   * Lance: easyMule有时导致路由器断线
  === 开发者 ===
   * Lance
+ === 日志 ===
+  * (2007-12-27) Lance: 
+    {{{uint32 CPartFile::Process(uint32 reducedownload, UINT icounter/*in percent*/)}}}
+    里的case DS_CONNECTING:下
+     {{{::GetTickCount()-cur_src->getLastTriedToConnectTime() > 20*60*1000}}}
+  * 如果是LowId to LowId，LastTriedToConnectTime没有被设置，导致如果对方如果不在线，则会一直去尝试连接，则会一直通过HighId或是服务器去打洞。造成HighId或服务器网络拥塞。
+    
 
 = Next : 0002 =
 _
