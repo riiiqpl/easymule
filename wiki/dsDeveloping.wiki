@@ -3,7 +3,7 @@
 = 0001 =
  === 需求 ===
   * Lance: easyMule有时导致路由器断线
-  * (2007-12-28) Lance: 连上Nat server 后有时会lose connection，不知道为什么，等会儿瞧瞧。
+  * (2007-12-28) Lance: 连上Nat server 后有时会lose connection，不知道为什么，等会儿顺便瞧瞧。
  === 开发者 ===
   * Lance
  === 日志 ===
