@@ -13,6 +13,10 @@
   * (2007-12-28) Lance: 以上第二个问题不用改，因为失去与服务器的连接是基于超时的，本来就是随机的。
   * (2007-12-28) Lance: 现在如果未连上nat server也会去尝试发sync包，这个要做一下判断。
   * 完成PatchA
+  * (2007-12-28) Lance: 从Lost connection的原理来看，应该还是服务器网络状况的问题。
+
+ === 文档 ===
+  * 与NatServer的连接通过判断200秒内是否有从Natserver方向来的包来判断。Client每90秒会向NatServer RegisterMe，这个请求会有个回应。如果没有其他的包，而ReisterMe又连续两次丢包就会造成Lost Connection。
 
  === 总结 ===
   * [http://code.google.com/p/easymule/downloads/list/easyMule0001a.patch PatchA] 解决NatServer网络拥塞。
@@ -25,4 +29,5 @@
  === 需求 ===
  === 开发者 ===
  === 日志 ===
+ === 文档 ===
  === 总结 ===
