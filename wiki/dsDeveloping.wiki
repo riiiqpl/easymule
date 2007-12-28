@@ -6,11 +6,7 @@
  === 开发者 ===
   * Lance
  === 日志 ===
-  * (2007-12-27) Lance: 
-    {{{uint32 CPartFile::Process(uint32 reducedownload, UINT icounter/*in percent*/)}}}
-    里的case DS_CONNECTING:下
-     {{{::GetTickCount()-cur_src->getLastTriedToConnectTime() > 20*60*1000}}}
-    如果是LowId to LowId，LastTriedToConnectTime没有被设置，导致如果对方如果不在线，则会一直去尝试连接，则会一直通过HighId或是服务器去打洞。造成HighId或服务器网络拥塞。
+  * (2007-12-27) Lance: {{{uint32 CPartFile::Process(uint32 reducedownload, UINT icounter/*in percent*/)}}}里的case DS_CONNECTING:下{{{::GetTickCount()-cur_src->getLastTriedToConnectTime() > 20*60*1000}}}如果是Low2Low，LastTriedToConnectTime没有被设置，导致如果对方如果不在线，则会一直去尝试连接，则会一直通过HighId或是服务器去打洞。造成HighId或服务器网络拥塞。
   * (2007-12-28) Lance: 由于low2low失败后没记下对方udp port，所以实际上不会去重试。所以其实不是以上的问题。
   * (2007-12-28) Lance: 先解决Nat服务器断网的问题。问题有两处, 1.打洞的sync重试的时间间隔是相等的，将改为指数退避。2.当与服务器失去连接时，去服务器注册的间隔时间为9秒，且是相等的。将改为指数退避，以及第一次时刻为随机值，以防止如果服务器关闭时，对服务器产生的瞬间压力。
     
