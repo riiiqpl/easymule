@@ -14,6 +14,7 @@
   * (2007-12-28) Lance: 现在如果未连上nat server也会去尝试发sync包，这个要做一下判断。
   * 完成PatchA
   * (2007-12-28) Lance: 从Lost connection的原理来看，应该还是服务器网络状况的问题。
+  * (2008-01-02) Lance: clients中HighId与LowId都有断网现象。具猜测，HighId可能跟Lowid的源交换打洞有关，LowId可能跟拥塞控制有关。目前先研究Lowid。
 
  === 文档 ===
   * 与NatServer的连接通过判断200秒内是否有从Natserver方向来的包来判断。Client每90秒会向NatServer RegisterMe，这个请求会有个回应。如果没有其他的包，而ReisterMe又连续两次丢包就会造成Lost Connection。
