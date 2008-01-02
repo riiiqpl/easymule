@@ -15,6 +15,8 @@
   * 完成PatchA
   * (2007-12-28) Lance: 从Lost connection的原理来看，应该还是服务器网络状况的问题。
   * (2008-01-02) Lance: clients中HighId与LowId都有断网现象。具猜测，HighId可能跟Lowid的源交换打洞有关，LowId可能跟拥塞控制有关。目前先研究Lowid。
+  * (2008-01-02) Lance: Low2Low虽然一方离线不会立即断开连接，但在CClientReqSocket::CheckTimeOut里有个超时判断，在一段时间内会间接的把NatSocket断掉。并且这段时间内上传的网速不会变，所以应该不是断网的原因。
+  * (2008-01-02) Lance: 目前Lowid的拥塞是用通过动态调整m_dwTimeToCheck的值来控制。如果两个Lowid之间往返时间短，但可用带宽小的话，就会持续产生多于带宽的压力。 这个有可能是Lowid运行时会断网的原因。其他情况的断网还没想到。
 
  === 文档 ===
   * 与NatServer的连接通过判断200秒内是否有从Natserver方向来的包来判断。Client每90秒会向NatServer RegisterMe，这个请求会有个回应。如果没有其他的包，而ReisterMe又连续两次丢包就会造成Lost Connection。
