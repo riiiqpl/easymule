@@ -1,13 +1,10 @@
 #summary 怎样参加到easyMule的开发中来.
 
-  首先：
-  # 在你对easyMule的研究中遇到任何问题都可以通过QQ群：104839 或是[http://www.verycd.com/groups/eMuleDev VeryCD Group]向其他开发者咨询和讨论。
-  # easyMule的相关文档一般会放在[http://code.google.com/p/easymule/w/list wiki]和[http://www.verycd.com/groups/eMuleDev VeryCD Group]里。可以通过它们对easyMule作进一步了解。
+|| *你可以* || *在这里* ||
+|| 交流 || QQ群(104839) && [http://www.verycd.com/groups/eMuleDev VeryCD Group] ||
+|| 查看提交文档 || [http://code.google.com/p/easymule/w/list wiki] &&[http://www.verycd.com/groups/eMuleDev VeryCD Group] ||
+|| 提取代码 || [http://code.google.com/p/easymule/source google上的svn] ||
+|| 提交patch || [http://code.google.com/p/easymule/downloads/list Downloads] ||
 
-
-  其次：
-  # 由于Google code的一些规则，以下的操作需要加为成员。所以你可以在QQ群104839里或在[http://www.verycd.com/groups/eMuleDev/220323.topic 这里]留下你的google帐号，我们的管理员会把你加为成员。
-  # 当你成为成员之后，建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]里留下自己的一些信息，以便于开发者之间的交流。
-  # 你可以通过[http://code.google.com/p/easymule/source google上的svn]提取最新的代码
-  # 你可以研究代码并把自己的心得发到[http://www.verycd.com/groups/eMuleDev VeryCD Group]上来
-  # 也可以能过[http://code.google.com/p/easymule/wiki/dsIndex 开发系统]参与到开发中来，从实践中获得进步。你（即使是新手也）可以在与其他开发者共同开发的同时，在技术上和人际关系上得到收获。
+ * 注：在Google code的一些操作需要加为成员。你可以在QQ群104839里或在[http://www.verycd.com/groups/eMuleDev/220323.topic 这里]留下你的google帐号，我们的管理员会把你加为成员。
+ * 建议你在[http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]里留下自己的一些信息，以便于开发者之间的交流。
