@@ -1,0 +1,7 @@
+#summary Wiki目录.
+
+ * [http://code.google.com/p/easymule/wiki/HowToStart 怎样开始]
+ * [http://code.google.com/p/easymule/wiki/MemberInfo 成员信息]
+
+ * [http://code.google.com/p/easymule/wiki/RequirementsCollection 需求收集]
+ * [http://code.google.com/p/easymule/wiki/DocIndex 文档目录]
