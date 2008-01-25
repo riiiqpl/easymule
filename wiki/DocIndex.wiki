@@ -1,3 +1,4 @@
 #summary 文档目录.
 
+ * [http://code.google.com/p/easymule/wiki/docDevGuide eMule开发新人指南]
  * [http://www.verycd.com/groups/eMuleDev/186617.topic Low2Low文档]
