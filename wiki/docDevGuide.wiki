@@ -19,8 +19,8 @@
   * ed2k://|file|kademlia%20%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B.pdf|243990|D16876CD8BC766D7A426595ECD1D694F|h=NFY5KK3YYJMZ7566LJRMRGNUY25RZBE4|/
 
 ==Kad协议简介（英文）==
-http://www.sics.se/~sameh/research/P2P/Kademlia/Kademlia%20Presentation/kpres.pdf
-ed2k://|file|kpres.pdf|123158|BF239CBD857F9188D3820B2A061273BC|h=BYSHEHBB57MVBSXQSRPCPEQC7UTSQMTY|/
+ * http://www.sics.se/~sameh/research/P2P/Kademlia/Kademlia%20Presentation/kpres.pdf
+ * ed2k://|file|kpres.pdf|123158|BF239CBD857F9188D3820B2A061273BC|h=BYSHEHBB57MVBSXQSRPCPEQC7UTSQMTY|/
 
 ==VeryCD版eMule Low2Low 实现==
   * http://www.VeryCD.com/groups/eMuleDev/186617.topic
