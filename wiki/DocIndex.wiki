@@ -1,3 +1,3 @@
 #summary 文档目录.
 
- * [http://www.verycd.com/groups/eMuleDev/186617.topic {{{Low2Low}}} 文档]
+ * [http://www.verycd.com/groups/eMuleDev/186617.topic Low2Low文档]
