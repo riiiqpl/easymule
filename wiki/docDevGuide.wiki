@@ -16,6 +16,7 @@
   * ed2k://|file|kad%20spec.pdf|81047|B96817E90CDD4CCC4CD56E5FDC3899E7|h=S7QYXSJYECHVQEJTSMQPVXBLDOSAGUPD|/
 
 ==Kad协议简介（中文）(推荐)==
+  * http://easymule.googlecode.com/files/kademlia%20%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B.pdf
   * ed2k://|file|kademlia%20%E5%8D%8F%E8%AE%AE%E7%AE%80%E4%BB%8B.pdf|243990|D16876CD8BC766D7A426595ECD1D694F|h=NFY5KK3YYJMZ7566LJRMRGNUY25RZBE4|/
 
 ==Kad协议简介（英文）==
